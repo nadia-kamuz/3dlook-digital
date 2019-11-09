@@ -581,10 +581,10 @@ button {
     margin-right: 38px !important;
   }
   .header .header-table .images {
-    padding-left: 20px;
-    padding-right: 20px;
     padding-bottom: 30px;
     padding-top: 30px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
   }
   .header .header-table .hidden-desktop .products-navigation {
     margin: 0 !important;
